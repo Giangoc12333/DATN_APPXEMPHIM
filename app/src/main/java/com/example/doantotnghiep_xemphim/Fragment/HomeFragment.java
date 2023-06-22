@@ -211,10 +211,10 @@ public class HomeFragment extends Fragment {
                                 sendData("Phim hài hước");
                                 break;
                             case R.id.category_item7:
-                                sendData("phim hoạt hình");
+                                sendData("Phim hoạt hình");
                                 break;
                             case R.id.category_item8:
-                                sendData("phim phiêu lưu");
+                                sendData("Phim Phiêu lưu");
                                 break;
                         }
                         return true;
