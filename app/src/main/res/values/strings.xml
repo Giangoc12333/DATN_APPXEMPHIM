@@ -1,7 +1,32 @@
 <resources>
     <string name="app_name">Real Phim</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment 1</string>
+    <!-- common -->
+    <string name="ok">OK</string>
+    <string name="add">Thêm</string>
+    <string name="required_fields_message">Các trường là bắt buộc</string>
+    <string name="edit">Sửa</string>
+
+    <!-- common movie -->
+    <string name="genre">sap delete:</string>
+    <string name="link">link %s</string>
+    <string name="link_movie">Link phim:</string>
+    <string name="movie_name">Tên phim:</string>
+    <string name="movie_actors">Diễn viên:</string>
+    <string name="movie_director">Đạo diễn:</string>
+    <string name="movie_duration">Thời lượng (Phút):</string>
+    <string name="country">Quốc gia</string>
+    <string name="movie_release">Năm phát hành:</string>
+    <string name="movie_genre">Thể loại:</string>
+    <string name="movie_country">Quốc gia:</string>
+    <string name="movie_description">Nội dung phim:</string>
+    <string name="movie_trailer">Trailer link:</string>
+
+    <!-- label screen -->
+
+
+    <!-- edit movie -->
+
+    <string name="edit_success">Chỉnh sửa movie thành công</string>
 
     <string name="textview_new_movie"><u>Phim mới</u></string>
     <string name="textview_category"><u>Thể loại</u></string>
@@ -14,8 +39,6 @@
     <string name="category_popup_item_4">Viễn tưởng</string>
     <string name="category_popup_item_5">Kinh dị</string>
     <string name="category_popup_item_6">Hài hước</string>
-    <string name="category_popup_item_7">Hoạt hình</string>
-    <string name="category_popup_item_8">Phiêu lưu</string>
 
     <!-- Item trong Popupmenu quốc gia -->
     <string name="nation_popup_item_1">Việt Nam</string>
@@ -24,8 +47,6 @@
     <string name="nation_popup_item_4">Mỹ</string>
     <string name="nation_popup_item_5">Hồng Kông</string>
     <string name="nation_popup_item_6">Âu</string>
-    <string name="nation_popup_item_7">Nhật Bản</string>
-    <string name="nation_popup_item_8">Trung Quốc</string>
 
 
     <string name="tv_login">Đăng nhập</string>

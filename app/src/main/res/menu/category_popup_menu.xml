@@ -12,8 +12,4 @@
         android:title="@string/category_popup_item_5"/>
     <item android:id="@+id/category_item6"
         android:title="@string/category_popup_item_6"/>
-    <item android:id="@+id/category_item7"
-        android:title="@string/category_popup_item_7"/>
-    <item android:id="@+id/category_item8"
-        android:title="@string/category_popup_item_8"/>
 </menu>
